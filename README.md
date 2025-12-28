@@ -3,7 +3,7 @@
 Welcome to the **OpenShift Complete Learning Repository**.
 This repository contains a structured, end-to-end curriculum that covers everything from OpenShift basics to enterprise security, CI/CD, Operators, and advanced deployment strategies.
 
-This README provides a clean **course index** with links to each lesson file so learners can navigate easily.
+This README provides a clean **course index** with links to each lesson file so learners can navigate easily..
 
 ---
 
